@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/dxSampleGroupSort/Form1.cs) (VB: [Form1.vb](./VB/dxSampleGroupSort/Form1.vb))
+* [Program.cs](./CS/dxSampleGroupSort/Program.cs) (VB: [Program.vb](./VB/dxSampleGroupSort/Program.vb))
+* [HelpSortItem.cs](./CS/dxSampleGroupSort/SortReportTableHelpers/HelpSortItem.cs) (VB: [HelpSortItem.vb](./VB/dxSampleGroupSort/SortReportTableHelpers/HelpSortItem.vb))
+* [ReportColumnSortHelper.cs](./CS/dxSampleGroupSort/SortReportTableHelpers/ReportColumnSortHelper.cs) (VB: [ReportColumnSortHelper.vb](./VB/dxSampleGroupSort/SortReportTableHelpers/ReportColumnSortHelper.vb))
+* [XtraReport1.cs](./CS/dxSampleGroupSort/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/dxSampleGroupSort/XtraReport1.vb))
+<!-- default file list end -->
 # How to sort report data in Print Preview by using a drop-down menu 
 
 
